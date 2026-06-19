@@ -1,2 +1,2 @@
-# MGLEEN
-code for  Multiscale Global-Local Edge Enhancement Network for Recognizing Non-Grain Cropland from Remote Sensing Imagery
+# MGLFN
+code for MGLFN:Multiscale Global-Local Fusion Network for Non-Grain Cropland Mapping
